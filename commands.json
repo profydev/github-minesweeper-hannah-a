@@ -4,6 +4,11 @@
     "flag F3",
     "clear F4",
     "flag B5",
-    "clear A5"
+    "clear A5",
+    "flag F5",
+    "flag G5",
+    "flag H5",
+    "clear A6",
+    "clear B6"
   ]
 }
